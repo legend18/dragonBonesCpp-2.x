@@ -1,0 +1,3529 @@
+<dragonBones name="flowerqueen" frameRate="24" version="2.3">
+  <armature name="flowerqueen">
+    <bone name="flowerqueen_huaban_a0">
+      <transform x="-20.65" y="227" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_a01">
+      <transform x="-22.15" y="232.25" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_b4">
+      <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_b3">
+      <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_a4">
+      <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_a3">
+      <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_a1">
+      <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_tengman_b">
+      <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_tengman_a">
+      <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_b3">
+      <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_b2">
+      <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_a3">
+      <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_a2">
+      <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_a1">
+      <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_xuxu">
+      <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_head">
+      <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_b1">
+      <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_body_a">
+      <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_body_b">
+      <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_b2">
+      <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hand_b1">
+      <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hair_a">
+      <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_hair_b">
+      <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_a2">
+      <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_huaban_a3">
+      <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_a2">
+      <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_b2">
+      <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_tengman_c">
+      <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_yezi_b">
+      <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_tengman_d">
+      <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_yezi_a">
+      <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_a1">
+      <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <bone name="flowerqueen_bianzi_b1">
+      <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1"/>
+    </bone>
+    <skin name="">
+      <slot name="flowerqueen_bianzi_b1" parent="flowerqueen_bianzi_b1" z="0">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_b1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="10.35" pY="64.65"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_a1" parent="flowerqueen_bianzi_a1" z="1">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_a1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="39.6" pY="60.3"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_yezi_a" parent="flowerqueen_yezi_a" z="2">
+        <display name="flowerqueen_yuanjian/flowerqueen_yezi_a" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="16.4" pY="32.4"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_tengman_d" parent="flowerqueen_tengman_d" z="3">
+        <display name="flowerqueen_yuanjian/flowerqueen_tengman_d" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="90.7" pY="53.7"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_yezi_b" parent="flowerqueen_yezi_b" z="4">
+        <display name="flowerqueen_yuanjian/flowerqueen_yezi_b" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="148.85" pY="30.85"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_tengman_c" parent="flowerqueen_tengman_c" z="5">
+        <display name="flowerqueen_yuanjian/flowerqueen_tengman_c" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="6.6" pY="56.45"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_b2" parent="flowerqueen_bianzi_b2" z="6">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_b2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="5.85" pY="29.6"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_a2" parent="flowerqueen_bianzi_a2" z="7">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_a2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="52.9" pY="68.35"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_a3" parent="flowerqueen_huaban_a3" z="8">
+        <display name="flowerqueen_yuanjian/flowerqueen_huaban_a3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="182.05" pY="52.7"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_a2" parent="flowerqueen_huaban_a2" z="9">
+        <display name="flowerqueen_yuanjian/flowerqueen_huaban_a2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="26.4" pY="54.65"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hair_b" parent="flowerqueen_hair_b" z="11">
+        <display name="flowerqueen_yuanjian/flowerqueen_hair_b" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="138.2" pY="58.15"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hair_a" parent="flowerqueen_hair_a" z="12">
+        <display name="flowerqueen_yuanjian/flowerqueen_hair_a" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="178.65" pY="66.5"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_b1" parent="flowerqueen_hand_b1" z="13">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_b1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="10.05" pY="8.7"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_b2" parent="flowerqueen_huaban_b2" z="14">
+        <display name="flowerqueen_yuanjian/flowerqueen_huaban_b2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="65.6" pY="72.95"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_body_b" parent="flowerqueen_body_b" z="15">
+        <display name="flowerqueen_yuanjian/flowerqueen_body_b" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="61.3" pY="160.8"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_body_a" parent="flowerqueen_body_a" z="16">
+        <display name="flowerqueen_yuanjian/flowerqueen_body_a" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="67.1" pY="107.8"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_b1" parent="flowerqueen_huaban_b1" z="17">
+        <display name="flowerqueen_yuanjian/flowerqueen_huaban_b1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="108.35" pY="90.9"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_head" parent="flowerqueen_head" z="18">
+        <display name="flowerqueen_yuanjian/flowerqueen_head" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="61.1" pY="109.85"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_xuxu" parent="flowerqueen_xuxu" z="19">
+        <display name="flowerqueen_yuanjian/flowerqueen_xuxu" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="71.4" pY="45.25"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_a1" parent="flowerqueen_hand_a1" z="20">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_a1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="39.2" pY="9.9"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_a2" parent="flowerqueen_hand_a2" z="21">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_a2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="48.55" pY="8.2"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_a3" parent="flowerqueen_hand_a3" z="22">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_a3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="40.85" pY="3.45"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_b2" parent="flowerqueen_hand_b2" z="23">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_b2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="7.65" pY="6.9"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_hand_b3" parent="flowerqueen_hand_b3" z="24">
+        <display name="flowerqueen_yuanjian/flowerqueen_hand_b3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="7.45" pY="4.55"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_tengman_a" parent="flowerqueen_tengman_a" z="25">
+        <display name="flowerqueen_yuanjian/flowerqueen_tengman_a" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="6.8" pY="63.9"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_tengman_b" parent="flowerqueen_tengman_b" z="26">
+        <display name="flowerqueen_yuanjian/flowerqueen_tengman_b" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="99.95" pY="45.2"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_a1" parent="flowerqueen_huaban_a1" z="27">
+        <display name="flowerqueen_yuanjian/flowerqueen_huaban_a1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="145.8" pY="39.85"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_a3" parent="flowerqueen_bianzi_a3" z="29">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_a3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="15.2" pY="10.6"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_a4" parent="flowerqueen_bianzi_a4" z="30">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_a4" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="6.75" pY="7.6"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_b3" parent="flowerqueen_bianzi_b3" z="31">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_b3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="4.55" pY="7.1"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_bianzi_b4" parent="flowerqueen_bianzi_b4" z="32">
+        <display name="flowerqueen_yuanjian/flowerqueen_bianzi_b4" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="57.25" pY="7.7"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_a01" parent="flowerqueen_huaban_a01" z="10">
+        <display name="flowerqueen_yuanjian/flowerqueen_b1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="253" pY="196.5"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_b2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="250" pY="242"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_b3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="325" pY="548"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_b4" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="390" pY="541"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_b5" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="298.9" pY="358"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_b6" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="250" pY="241"/>
+        </display>
+      </slot>
+      <slot name="flowerqueen_huaban_a0" parent="flowerqueen_huaban_a0" z="28">
+        <display name="flowerqueen_yuanjian/flowerqueen_a1" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="177.5" pY="135.35"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a2" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="151" pY="142.6"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a3" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="255.5" pY="493.85"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a4" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="221.5" pY="547.5"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a5" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="270.5" pY="533.85"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a6" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="270.5" pY="513"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a7" type="image">
+          <transform x="0" y="-0.7" skX="0" skY="0" scX="1" scY="1" pX="277.5" pY="528.5"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a8" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="191" pY="519"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a9" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="191" pY="447.5"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a10" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="141.5" pY="245.5"/>
+        </display>
+        <display name="flowerqueen_yuanjian/flowerqueen_a11" type="image">
+          <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="154" pY="141.3"/>
+        </display>
+      </slot>
+    </skin>
+    <animation name="flowerqueen_hold" fadeInTime="0.3" duration="20" scale="1" loop="1" tweenEasing="NaN">
+      <timeline name="flowerqueen_bianzi_b1" scale="1" offset="0">
+        <frame z="0" tweenEasing="0" duration="9">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="10">
+          <transform x="78.8" y="101.3" skX="-7.47" skY="-7.47" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="1">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a1" scale="1" offset="0">
+        <frame z="1" tweenEasing="0" duration="9">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="10">
+          <transform x="-163.3" y="102.75" skX="8.74" skY="8.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="1">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_a" scale="1" offset="0">
+        <frame z="2" tweenEasing="0" duration="9">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="10">
+          <transform x="68.95" y="176.95" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="1">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_d" scale="1" offset="0">
+        <frame z="3" tweenEasing="0" duration="9">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="10">
+          <transform x="-79.75" y="88.5" skX="6.48" skY="6.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="1">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_b" scale="1" offset="0">
+        <frame z="4" tweenEasing="0" duration="9">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="10">
+          <transform x="-108.55" y="175.3" skX="2.7" skY="2.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="1">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_c" scale="1" offset="0">
+        <frame z="5" tweenEasing="0" duration="9">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="10">
+          <transform x="33.2" y="89.5" skX="-5.73" skY="-5.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="1">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b2" scale="1" offset="0">
+        <frame z="6" tweenEasing="0" duration="9">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="10">
+          <transform x="149.8" y="34.1" skX="3" skY="3" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="1">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a2" scale="1" offset="0">
+        <frame z="7" tweenEasing="0" duration="9">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="10">
+          <transform x="-189.95" y="41.55" skX="-6.48" skY="-6.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="1">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a3" scale="1" offset="0">
+        <frame z="8" tweenEasing="0" duration="9">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="10">
+          <transform x="-33.4" y="121.25" skX="2.97" skY="2.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="1">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a2" scale="1" offset="0">
+        <frame z="9" tweenEasing="0" duration="9">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="10">
+          <transform x="-12.05" y="123.15" skX="-2.95" skY="-2.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="1">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_b" scale="1" offset="0">
+        <frame z="11" tweenEasing="0" duration="9">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="10">
+          <transform x="0.8" y="-178.8" skX="3.72" skY="3.72" scX="0.96" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="1">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_a" scale="1" offset="0">
+        <frame z="12" tweenEasing="0" duration="9">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="10">
+          <transform x="-39.3" y="-170.8" skX="4.92" skY="4.92" scX="0.94" scY="0.99" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="1">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b1" scale="1" offset="0">
+        <frame z="13" tweenEasing="0" duration="9">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="10">
+          <transform x="-3.2" y="-89.45" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="1">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b2" scale="1" offset="0">
+        <frame z="14" tweenEasing="0" duration="9">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="10">
+          <transform x="-21.85" y="118.45" skX="-3.34" skY="0" scX="1" scY="0.96" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="1">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_b" scale="1" offset="0">
+        <frame z="15" tweenEasing="0" duration="9">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="10">
+          <transform x="-17.15" y="108.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="1">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_a" scale="1" offset="0">
+        <frame z="16" tweenEasing="0" duration="9">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="10">
+          <transform x="-14.35" y="-43.85" skX="-2.24" skY="-2.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="1">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b1" scale="1" offset="0">
+        <frame z="17" tweenEasing="0" duration="9">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="10">
+          <transform x="-12.1" y="152.1" skX="2.55" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="1">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_head" scale="1" offset="0">
+        <frame z="18" tweenEasing="0" duration="9">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="10">
+          <transform x="-29.3" y="-117.35" skX="2.04" skY="2.04" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="1">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_xuxu" scale="1" offset="0">
+        <frame z="19" tweenEasing="0" duration="9">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="10">
+          <transform x="-9.4" y="33.45" skX="0" skY="0" scX="1" scY="0.88" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="1">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a1" scale="1" offset="0">
+        <frame z="20" tweenEasing="0" duration="9">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="10">
+          <transform x="-51.95" y="-89.4" skX="1.48" skY="1.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="1">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a2" scale="1" offset="0">
+        <frame z="21" tweenEasing="0" duration="9">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="10">
+          <transform x="-89.55" y="-53.3" skX="17.91" skY="17.91" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="1">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a3" scale="1" offset="0">
+        <frame z="22" tweenEasing="0" duration="9">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="10">
+          <transform x="-132" y="-49.9" skX="-0.57" skY="-0.57" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="1">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b2" scale="1" offset="0">
+        <frame z="23" tweenEasing="0" duration="9">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="10">
+          <transform x="45.6" y="-60.25" skX="-12.18" skY="-12.18" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b3" scale="1" offset="0">
+        <frame z="24" tweenEasing="0" duration="9">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="10">
+          <transform x="97.05" y="-55.85" skX="0.77" skY="0.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_a" scale="1" offset="0">
+        <frame z="25" tweenEasing="0" duration="9">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="10">
+          <transform x="-0.6" y="155.95" skX="-4.73" skY="-4.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="1">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_b" scale="1" offset="0">
+        <frame z="26" tweenEasing="0" duration="9">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="10">
+          <transform x="-26.5" y="159.2" skX="4.24" skY="4.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="1">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a1" scale="1" offset="0">
+        <frame z="27" tweenEasing="0" duration="9">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="10">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="1">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a3" scale="1" offset="0">
+        <frame z="29" tweenEasing="0" duration="9">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="10">
+          <transform x="-247.3" y="-12.5" skX="-1.03" skY="-1.03" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="1">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a4" scale="1" offset="0">
+        <frame z="30" tweenEasing="0" duration="9">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="10">
+          <transform x="-197" y="89.55" skX="-9.48" skY="-9.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="1">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b3" scale="1" offset="0">
+        <frame z="31" tweenEasing="0" duration="9">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="10">
+          <transform x="220.25" y="22.35" skX="7.96" skY="7.96" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="1">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b4" scale="1" offset="0">
+        <frame z="32" tweenEasing="0" duration="9">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="10">
+          <transform x="240.7" y="80.55" skX="11.25" skY="11.25" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="1">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+    </animation>
+    <animation name="flowerqueen_attack1" fadeInTime="0.3" duration="41" scale="1" loop="1" tweenEasing="NaN">
+      <timeline name="flowerqueen_bianzi_b1" scale="1" offset="0">
+        <frame z="0" tweenEasing="0" duration="2">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="0" tweenEasing="0" duration="2">
+          <transform x="77.45" y="94.85" skX="-2.06" skY="-2.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="1">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a1" scale="1" offset="0">
+        <frame z="1" tweenEasing="0" duration="2">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="1" tweenEasing="0" duration="2">
+          <transform x="-163.45" y="98.9" skX="1.55" skY="1.55" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="1">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_a" scale="1" offset="0">
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="-2.26" skY="-2.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="21">
+          <transform x="68.95" y="176.95" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="7">
+          <transform x="69" y="176.95" skX="-2.54" skY="-2.54" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="1">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_d" scale="1" offset="0">
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="87.45" skX="5.29" skY="5.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="21">
+          <transform x="-79.75" y="88.5" skX="6.48" skY="6.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="7">
+          <transform x="-79.8" y="88.35" skX="6.06" skY="6.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="1">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_b" scale="1" offset="0">
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="2.25" skY="2.25" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="21">
+          <transform x="-108.55" y="175.3" skX="2.7" skY="2.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="7">
+          <transform x="-108.6" y="175.3" skX="2.53" skY="2.53" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="1">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_c" scale="1" offset="0">
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="88.75" skX="-4.76" skY="-4.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="21">
+          <transform x="33.2" y="89.5" skX="-5.73" skY="-5.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="7">
+          <transform x="33.25" y="89.35" skX="-5.51" skY="-5.51" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="1">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b2" scale="1" offset="0">
+        <frame z="6" tweenEasing="0" duration="2">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="6" tweenEasing="0" duration="2">
+          <transform x="152.35" y="34.1" skX="0.79" skY="0.79" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="1">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a2" scale="1" offset="0">
+        <frame z="7" tweenEasing="0" duration="2">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="7" tweenEasing="0" duration="2">
+          <transform x="-195.85" y="41.35" skX="-1.05" skY="-1.05" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="1">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a3" scale="1" offset="0">
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="3">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="3">
+          <transform x="-33.4" y="121.25" skX="2.31" skY="2.31" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="21">
+          <transform x="-33.4" y="121.25" skX="2.97" skY="2.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="7">
+          <transform x="-33.4" y="121.25" skX="2.78" skY="2.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="1">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a2" scale="1" offset="0">
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="3">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="3">
+          <transform x="-12.05" y="123.15" skX="-2.3" skY="-2.3" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="21">
+          <transform x="-12.05" y="123.15" skX="-2.95" skY="-2.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="7">
+          <transform x="-12.05" y="123.2" skX="-2.77" skY="-2.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="1">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_b" scale="1" offset="0">
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="6.2" y="-187.15" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="21.35" y="-179.05" skX="0" skY="0" scX="0.97" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="21">
+          <transform x="24.35" y="-177.45" skX="0.69" skY="0.69" scX="0.96" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="7">
+          <transform x="23.6" y="-177.75" skX="0.54" skY="0.54" scX="0.96" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="1">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_a" scale="1" offset="0">
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="-33.2" y="-176.4" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="-18.2" y="-168.9" skX="1" skY="0.81" scX="0.95" scY="0.99" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="21">
+          <transform x="-15.25" y="-167.4" skX="1.9" skY="1.89" scX="0.94" scY="0.99" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="7">
+          <transform x="-16" y="-167.75" skX="1.77" skY="1.77" scX="0.94" scY="0.99" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="1">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b1" scale="1" offset="0">
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="7.6" y="-97.6" skX="-23.23" skY="-23.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="18.05" y="-89.35" skX="-41.45" skY="-41.45" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="21">
+          <transform x="20.15" y="-87.65" skX="-50.25" skY="-50.25" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="7">
+          <transform x="19.35" y="-87.95" skX="-48.41" skY="-48.41" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="1">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b2" scale="1" offset="0">
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.5" skX="-2.76" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="21">
+          <transform x="-21.85" y="118.45" skX="-3.34" skY="0" scX="1" scY="0.96" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="7">
+          <transform x="-21.85" y="118.45" skX="-3.06" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="1">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_b" scale="1" offset="0">
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-17.15" y="101.35" skX="4.49" skY="4.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-16.6" y="106.75" skX="6.28" skY="6.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="21">
+          <transform x="-16.5" y="107.75" skX="6.75" skY="6.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="7">
+          <transform x="-16.5" y="107.5" skX="6.5" skY="6.5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="1">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_a" scale="1" offset="0">
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="-3" y="-50.65" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="2.45" y="-41.55" skX="3.27" skY="3.27" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="21">
+          <transform x="3.55" y="-39.75" skX="4.71" skY="4.71" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="7">
+          <transform x="2.9" y="-40.15" skX="4.51" skY="4.51" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="1">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b1" scale="1" offset="0">
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="151.65" skX="2.03" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="21">
+          <transform x="-12.1" y="152.1" skX="2.55" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="7">
+          <transform x="-12.1" y="152" skX="2.3" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="1">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_head" scale="1" offset="0">
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="-19.55" y="-123.8" skX="-3.48" skY="-3.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="-5.25" y="-116.05" skX="-1.29" skY="-1.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="21">
+          <transform x="-2.4" y="-114.55" skX="-0.99" skY="-0.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="7">
+          <transform x="-3.25" y="-114.9" skX="-0.8" skY="-0.8" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="1">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_xuxu" scale="1" offset="0">
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-3.55" y="27.55" skX="4.49" skY="4.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-0.75" y="33.4" skX="6.28" skY="6.28" scX="1" scY="0.9" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="21">
+          <transform x="-0.05" y="34.55" skX="6.75" skY="6.75" scX="1" scY="0.88" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="7">
+          <transform x="-0.35" y="34.15" skX="6.5" skY="6.5" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="1">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a1" scale="1" offset="0">
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-41.7" y="-95.35" skX="-14.93" skY="-14.93" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-30.6" y="-90.45" skX="-14.77" skY="-14.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="21">
+          <transform x="-28.3" y="-89.5" skX="-14.77" skY="-14.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="7">
+          <transform x="-29.15" y="-89.8" skX="-14.07" skY="-14.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="1">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a2" scale="1" offset="0">
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-67.55" y="-49.9" skX="-29.9" skY="-29.9" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-55.35" y="-47.55" skX="-30.59" skY="-30.59" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="21">
+          <transform x="-52.9" y="-47.1" skX="-30.84" skY="-30.84" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="7">
+          <transform x="-54.15" y="-47.55" skX="-29.61" skY="-29.61" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="1">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a3" scale="1" offset="0">
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-93.35" y="-16.2" skX="0.1" skY="0.1" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-80.75" y="-13.5" skX="-41.1" skY="-41.1" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="21">
+          <transform x="-78.3" y="-12.95" skX="-49.33" skY="-49.33" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="7">
+          <transform x="-80.05" y="-14.1" skX="-47.62" skY="-47.62" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="1">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b2" scale="1" offset="0">
+        <frame z="23" tweenEasing="0" duration="6">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="63.15" y="-84.9" skX="6.77" skY="6.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="72" y="-93.45" skX="-11.36" skY="-11.36" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="21">
+          <transform x="73.25" y="-99.9" skX="-20.23" skY="-20.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="7">
+          <transform x="72.3" y="-98.55" skX="-19.52" skY="-19.52" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b3" scale="1" offset="0">
+        <frame z="24" tweenEasing="0" duration="6">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="110.3" y="-65.35" skX="36.77" skY="36.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="122.7" y="-88.8" skX="-5.62" skY="-5.62" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="21">
+          <transform x="124.8" y="-102.7" skX="-37.28" skY="-37.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="7">
+          <transform x="123.7" y="-100.7" skX="-35.86" skY="-35.86" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_a" scale="1" offset="0">
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="155.5" skX="-3.8" skY="-3.8" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="21">
+          <transform x="-0.6" y="155.95" skX="-4.73" skY="-4.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="7">
+          <transform x="-0.6" y="155.9" skX="-4.52" skY="-4.52" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="1">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_b" scale="1" offset="0">
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.5" y="158.45" skX="3.51" skY="3.51" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="21">
+          <transform x="-26.5" y="159.2" skX="4.24" skY="4.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="7">
+          <transform x="-26.5" y="159.1" skX="4.02" skY="4.02" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="1">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a1" scale="1" offset="0">
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="3">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="3">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.91" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="21">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="7">
+          <transform x="-21.65" y="167.4" skX="0" skY="0" scX="1" scY="0.9" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="1">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a3" scale="1" offset="0">
+        <frame z="29" tweenEasing="0" duration="2">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="29" tweenEasing="0" duration="2">
+          <transform x="-247.35" y="-17.65" skX="-0.04" skY="-0.04" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="1">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a4" scale="1" offset="0">
+        <frame z="30" tweenEasing="0" duration="2">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="30" tweenEasing="0" duration="2">
+          <transform x="-196" y="88.35" skX="-1.78" skY="-1.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="1">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b3" scale="1" offset="0">
+        <frame z="31" tweenEasing="0" duration="2">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="31" tweenEasing="0" duration="2">
+          <transform x="220.85" y="19.85" skX="2.28" skY="2.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="1">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b4" scale="1" offset="0">
+        <frame z="32" tweenEasing="0" duration="2">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="32" tweenEasing="0" duration="2">
+          <transform x="247" y="76.2" skX="3.28" skY="3.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="1">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+    </animation>
+    <animation name="flowerqueen_attack2" fadeInTime="0.3" duration="73" scale="1" loop="1" tweenEasing="NaN">
+      <timeline name="flowerqueen_bianzi_b1" scale="1" offset="0">
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="77.25" y="92.25" skX="-4.21" skY="-4.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="76.85" y="92.15" skX="3.94" skY="3.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="76.85" y="92.15" skX="-3.21" skY="-3.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="7">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="77.3" y="92.15" skX="-4.7" skY="-4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="5">
+          <transform x="76.45" y="91.95" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="10">
+          <transform x="77.15" y="92.2" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="3">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="2">
+          <transform x="77.4" y="92.25" skX="-3.7" skY="-3.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="7">
+          <transform x="76.4" y="92.15" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="6">
+          <transform x="77.25" y="92.2" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="3">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a1" scale="1" offset="0">
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-164.65" y="98.75" skX="6.95" skY="6.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-163.55" y="98" skX="-4.75" skY="-4.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-163.55" y="98" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="7">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-164.6" y="98.4" skX="7.48" skY="7.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="5">
+          <transform x="-163.55" y="98" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="10">
+          <transform x="-163.95" y="98.1" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="3">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="2">
+          <transform x="-163.55" y="98" skX="8.23" skY="8.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="7">
+          <transform x="-163.55" y="98" skX="-4.2" skY="-4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="6">
+          <transform x="-164.25" y="98.35" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="3">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_a" scale="1" offset="0">
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="-5.97" skY="-5.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="3.21" skY="3.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="7">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="-4.94" skY="-4.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="5">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="10">
+          <transform x="68.95" y="176.95" skX="-3.24" skY="-3.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="2">
+          <transform x="68.95" y="176.95" skX="-5.23" skY="-5.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="7">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="6">
+          <transform x="68.95" y="176.95" skX="-4.7" skY="-4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_d" scale="1" offset="0">
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="6.72" skY="6.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="-5.71" skY="-5.71" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="7">
+          <transform x="-79.75" y="82.2" skX="-6.2" skY="-6.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="6.94" skY="6.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="5">
+          <transform x="-79.75" y="82.2" skX="-6.19" skY="-6.19" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="10">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="82.2" skX="-5.96" skY="-5.96" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="2">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="7">
+          <transform x="-79.75" y="82.2" skX="-5.72" skY="-5.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="6">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_b" scale="1" offset="0">
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="4.72" skY="4.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="3.24" skY="3.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="7">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="5.23" skY="5.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="5">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="10">
+          <transform x="-108.55" y="175.3" skX="3.44" skY="3.44" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="2">
+          <transform x="-108.55" y="175.3" skX="4.96" skY="4.96" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="7">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="6">
+          <transform x="-108.55" y="175.3" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_c" scale="1" offset="0">
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="-5.99" skY="-5.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="5.72" skY="5.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="7">
+          <transform x="33.2" y="85" skX="6.47" skY="6.47" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="-7.7" skY="-7.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="5">
+          <transform x="33.2" y="85" skX="6.72" skY="6.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="10">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="85" skX="5.75" skY="5.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="2">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="7">
+          <transform x="33.2" y="85" skX="5.74" skY="5.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="6">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b2" scale="1" offset="0">
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="149.35" y="28.7" skX="-4.21" skY="-4.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="157.2" y="39.5" skX="3.94" skY="3.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="150" y="29.9" skX="-3.21" skY="-3.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="7">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="148.85" y="28.05" skX="-4.7" skY="-4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="5">
+          <transform x="156.6" y="39" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="10">
+          <transform x="150.3" y="29.95" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="3">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="2">
+          <transform x="150" y="29.35" skX="-3.7" skY="-3.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="7">
+          <transform x="157.25" y="40.2" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="6">
+          <transform x="150.95" y="30.55" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="3">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a2" scale="1" offset="0">
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-191.2" y="38.3" skX="6.95" skY="6.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-201.8" y="44.25" skX="-4.75" skY="-4.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-193" y="38.95" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="7">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-190.6" y="37.8" skX="7.48" skY="7.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="5">
+          <transform x="-202.25" y="44.55" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="10">
+          <transform x="-193.1" y="38.9" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="3">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="2">
+          <transform x="-188.8" y="37" skX="8.23" skY="8.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="7">
+          <transform x="-201.3" y="43.95" skX="-4.2" skY="-4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="6">
+          <transform x="-192.65" y="38.75" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="3">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a3" scale="1" offset="0">
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="-2.7" skY="-2.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="2.69" skY="2.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="7">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="5" skY="5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="5">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="10">
+          <transform x="-33.4" y="121.25" skX="2.74" skY="2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="3">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="2">
+          <transform x="-33.4" y="121.25" skX="4.24" skY="4.24" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="7">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="6">
+          <transform x="-33.4" y="121.25" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="3">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a2" scale="1" offset="0">
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="-4.49" skY="-4.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="2.49" skY="2.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="-2.45" skY="-2.45" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="7">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="-4.48" skY="-4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="5">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="10">
+          <transform x="-12.05" y="123.15" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="3">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="2">
+          <transform x="-12.05" y="123.15" skX="-4.74" skY="-4.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="7">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="6">
+          <transform x="-12.05" y="123.15" skX="-3" skY="-3" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="3">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_b" scale="1" offset="0">
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="29.1" y="-175.9" skX="10.05" skY="10.05" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="3.15" y="-186.35" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="-8" y="-187.45" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="7">
+          <transform x="3.15" y="-186.35" skX="-4.72" skY="-4.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="29.1" y="-175.9" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="5">
+          <transform x="3.15" y="-186.35" skX="4.47" skY="4.47" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="10">
+          <transform x="-6.15" y="-187.3" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="-8" y="-187.45" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="2">
+          <transform x="40.25" y="-169.1" skX="20.92" skY="20.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="7">
+          <transform x="30.4" y="-173.8" skX="20.29" skY="20.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="6">
+          <transform x="27.05" y="-175.4" skX="13.29" skY="13.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_a" scale="1" offset="0">
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-11.65" y="-178.15" skX="8.05" skY="8.05" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-36.8" y="-178" skX="7.74" skY="7.75" scX="0.96" scY="1.02" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-46.4" y="-173.5" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="7">
+          <transform x="-36.8" y="-178" skX="-5.71" skY="-5.71" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-11.65" y="-178.15" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="5">
+          <transform x="-36.8" y="-178" skX="4.5" skY="4.5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="10">
+          <transform x="-44.8" y="-174.25" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="-46.4" y="-173.5" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="2">
+          <transform x="0" y="-175.5" skX="14.95" skY="14.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="7">
+          <transform x="-9.75" y="-176.2" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="6">
+          <transform x="-13.15" y="-176.4" skX="8.58" skY="8.58" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b1" scale="1" offset="0">
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="1.25" y="-89.5" skX="44.26" skY="44.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="-1.4" y="-95.75" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="-0.45" y="-96.45" skX="-40.85" skY="-40.85" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="0.45" y="-97.15" skX="-96.65" skY="-96.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="7">
+          <transform x="-3.05" y="-98.1" skX="-21.05" skY="-23.92" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="1.25" y="-89.5" skX="44.26" skY="44.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="5">
+          <transform x="-1.4" y="-95.75" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="10">
+          <transform x="0.1" y="-96.9" skX="-78.19" skY="-78.19" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="0.45" y="-97.15" skX="-96.65" skY="-96.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="2">
+          <transform x="3" y="-88.75" skX="-0.13" skY="-3" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="7">
+          <transform x="1.95" y="-90.65" skX="-12.79" skY="-14.82" scX="0.87" scY="1.05" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="6">
+          <transform x="1.5" y="-91.25" skX="-26.26" skY="-28.04" scX="0.89" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b2" scale="1" offset="0">
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="-3.02" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="4.98" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="7">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="-4.98" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="5">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="10">
+          <transform x="-21.85" y="118.45" skX="4" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="2">
+          <transform x="-21.85" y="118.45" skX="-2.98" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="7">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="6">
+          <transform x="-21.85" y="118.45" skX="4.98" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_b" scale="1" offset="0">
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-16.2" y="100.65" skX="-4.22" skY="-4.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-18.1" y="101.9" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="7">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-16.2" y="100.65" skX="-4.22" skY="-4.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="5">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="10">
+          <transform x="-17.95" y="101.8" skX="3.26" skY="3.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-18.1" y="101.9" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="2">
+          <transform x="-15.7" y="100.85" skX="-5.97" skY="-5.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="7">
+          <transform x="-15.95" y="101.05" skX="-4.26" skY="-4.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="6">
+          <transform x="-16.1" y="101.05" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_a" scale="1" offset="0">
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-22.95" y="-49.3" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-5.95" y="-50.65" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="7">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-22.95" y="-49.3" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="5">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="10">
+          <transform x="-7.35" y="-50.7" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="-5.95" y="-50.65" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="2">
+          <transform x="-24.55" y="-48.55" skX="20.92" skY="20.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="7">
+          <transform x="-21.85" y="-49.1" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="6">
+          <transform x="-20.9" y="-49.3" skX="13.29" skY="13.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b1" scale="1" offset="0">
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="5.59" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="-3.21" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="7">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="6.4" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="5">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="10">
+          <transform x="-12.1" y="149.4" skX="-3.21" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="2">
+          <transform x="-12.1" y="149.4" skX="4.81" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="7">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="6">
+          <transform x="-12.1" y="149.4" skX="-3.21" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_head" scale="1" offset="0">
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-15.4" y="-123.95" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-28.45" y="-122.15" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="7">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-15.4" y="-123.95" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="5">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="10">
+          <transform x="-28.1" y="-122.55" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="-28.45" y="-122.15" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="2">
+          <transform x="-9.35" y="-121.95" skX="20.92" skY="20.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="7">
+          <transform x="-13.9" y="-122.7" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="6">
+          <transform x="-15.5" y="-122.95" skX="13.29" skY="13.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_xuxu" scale="1" offset="0">
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-13.95" y="25.6" skX="-4.22" skY="-4.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-5.2" y="28" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="7">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-13.95" y="25.6" skX="-4.22" skY="-4.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="5">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="10">
+          <transform x="-5.9" y="27.8" skX="3.26" skY="3.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-5.2" y="28" skX="3.97" skY="3.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="2">
+          <transform x="-15.8" y="25.8" skX="-5.97" skY="-5.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="7">
+          <transform x="-14.1" y="26.1" skX="-4.26" skY="-4.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="6">
+          <transform x="-13.5" y="26.2" skX="-3.76" skY="-3.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a1" scale="1" offset="0">
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-45.45" y="-103.95" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-48.2" y="-92" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="7">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-45.45" y="-103.95" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="5">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="10">
+          <transform x="-48.55" y="-92.95" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-48.2" y="-92" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="2">
+          <transform x="-41.25" y="-105.2" skX="20.92" skY="20.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="7">
+          <transform x="-43.65" y="-103.1" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="6">
+          <transform x="-44.5" y="-102.45" skX="3.14" skY="3.14" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a2" scale="1" offset="0">
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-90.5" y="-77.5" skX="5.81" skY="5.81" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-86.9" y="-60.35" skX="7.27" skY="7.27" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-79.15" y="-49.85" skX="-2.51" skY="-2.51" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="7">
+          <transform x="-86.9" y="-60.35" skX="-7.95" skY="-7.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-90.5" y="-77.5" skX="6.78" skY="6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="5">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="10">
+          <transform x="-80.45" y="-51.6" skX="-6.78" skY="-6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-79.15" y="-49.85" skX="-8.22" skY="-8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="2">
+          <transform x="-88.85" y="-83.5" skX="5.92" skY="5.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="7">
+          <transform x="-88.35" y="-77.4" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="6">
+          <transform x="-82.7" y="-68.05" skX="3.14" skY="3.14" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a3" scale="1" offset="0">
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-131.25" y="-65.25" skX="5.81" skY="5.81" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-127.95" y="-49.15" skX="7.27" skY="7.27" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-117.7" y="-31.9" skX="-2.51" skY="-2.51" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="7">
+          <transform x="-123.6" y="-38.8" skX="-7.95" skY="-7.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-131.45" y="-65.9" skX="6.78" skY="6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="5">
+          <transform x="-126.2" y="-44.05" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="10">
+          <transform x="-117.45" y="-30.8" skX="23.22" skY="23.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-115.7" y="-28.15" skX="6.78" skY="6.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="2">
+          <transform x="-129.55" y="-71.35" skX="5.92" skY="5.92" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="7">
+          <transform x="-130.05" y="-72.3" skX="15.07" skY="15.07" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="6">
+          <transform x="-122.35" y="-54.35" skX="18.14" skY="18.14" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b2" scale="1" offset="0">
+        <frame z="23" tweenEasing="0" duration="6">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="6">
+          <transform x="10.7" y="-35.2" skX="43.89" skY="43.89" scX="0.89" scY="1.15" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="32.1" y="-55.05" skX="172.48" skY="172.48" scX="0.68" scY="1.45" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="42.5" y="-62.5" skX="-175.95" skY="-175.95" scX="0.74" scY="1.38" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="49.85" y="-80.8" skX="-164.21" skY="-164.21" scX="0.79" scY="1.3" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="51.3" y="-98.2" skX="-152.34" skY="-152.34" scX="0.84" scY="1.22" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="2">
+          <transform x="46.7" y="-114.4" skX="-133.85" skY="-133.85" scX="0.89" scY="1.15" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="28.5" y="-146.75" skX="-96.65" skY="-96.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="46.55" y="-115.5" skX="-58.91" skY="-60.4" scX="0.91" scY="1.03" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="7">
+          <transform x="44.6" y="-80.2" skX="-21.05" skY="-23.92" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="6">
+          <transform x="10.7" y="-35.2" skX="43.89" skY="43.89" scX="0.89" scY="1.15" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="32.1" y="-55.05" skX="172.48" skY="172.48" scX="0.68" scY="1.45" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="43.15" y="-64.75" skX="-172.47" skY="-172.47" scX="0.74" scY="1.38" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="2">
+          <transform x="49.7" y="-81.45" skX="-157.22" skY="-157.22" scX="0.79" scY="1.3" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="47.25" y="-116.25" skX="-126.86" skY="-126.86" scX="0.89" scY="1.15" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="10">
+          <transform x="38.55" y="-133.55" skX="-111.79" skY="-111.79" scX="0.95" scY="1.07" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="28.5" y="-146.75" skX="-96.65" skY="-96.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="2">
+          <transform x="41.1" y="-55.1" skX="-53.36" skY="-56.23" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="7">
+          <transform x="48.65" y="-66.6" skX="-27.54" skY="-29.57" scX="0.87" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="6">
+          <transform x="53.1" y="-78.95" skX="-24.05" skY="-25.84" scX="0.89" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b3" scale="1" offset="0">
+        <frame z="24" tweenEasing="0" duration="6">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="6">
+          <transform x="28.65" y="9.2" skX="21.59" skY="21.59" scX="0.92" scY="1.09" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="-4.35" y="-76.5" skX="165" skY="165" scX="0.76" scY="1.27" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="8.7" y="-88.55" skX="166.45" skY="166.45" scX="0.8" scY="1.22" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="18.7" y="-111.75" skX="167.93" skY="167.93" scX="0.84" scY="1.18" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="22.75" y="-133.95" skX="169.06" skY="169.06" scX="0.88" scY="1.13" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="2">
+          <transform x="30.8" y="-155.15" skX="-169.68" skY="-169.68" scX="0.92" scY="1.09" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="37.9" y="-197.5" skX="-126.65" skY="-126.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="72.75" y="-141.55" skX="-96.28" skY="-97.76" scX="0.91" scY="1.03" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="7">
+          <transform x="87.7" y="-81.65" skX="-66.06" skY="-68.92" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="6">
+          <transform x="28.65" y="9.2" skX="21.59" skY="21.59" scX="0.92" scY="1.09" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="-4.35" y="-76.5" skX="165" skY="165" scX="0.76" scY="1.27" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="11" y="-91.45" skX="176.47" skY="176.47" scX="0.8" scY="1.22" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="2">
+          <transform x="21.95" y="-113.5" skX="-172.25" skY="-172.25" scX="0.84" scY="1.18" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="37.1" y="-158.95" skX="-149.45" skY="-149.45" scX="0.92" scY="1.09" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="10">
+          <transform x="37.15" y="-181.6" skX="-138.11" skY="-138.11" scX="0.96" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="37.9" y="-197.5" skX="-126.65" skY="-126.65" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="2">
+          <transform x="76.75" y="-79.35" skX="-83.36" skY="-86.23" scX="0.83" scY="1.06" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="7">
+          <transform x="92.3" y="-72.75" skX="-34.85" skY="-37.07" scX="0.87" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="6">
+          <transform x="97.4" y="-82.5" skX="-45.56" skY="-47.35" scX="0.89" scY="1.04" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_a" scale="1" offset="0">
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="-4.48" skY="-4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="7">
+          <transform x="-0.6" y="153.25" skX="4.21" skY="4.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="-5.23" skY="-5.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="5">
+          <transform x="-0.6" y="153.25" skX="5.19" skY="5.19" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="10">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="153.25" skX="4.74" skY="4.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="2">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="7">
+          <transform x="-0.6" y="153.25" skX="4.7" skY="4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="6">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_b" scale="1" offset="0">
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="6.45" skY="6.45" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="7">
+          <transform x="-26.5" y="154.7" skX="-5.46" skY="-5.46" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="4.98" skY="4.98" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="5">
+          <transform x="-26.5" y="154.7" skX="-5.46" skY="-5.46" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="10">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.5" y="154.7" skX="-5.69" skY="-5.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="2">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="7">
+          <transform x="-26.5" y="154.7" skX="-5.49" skY="-5.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="6">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a1" scale="1" offset="0">
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.98" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="7">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.87" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="5">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="10">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.96" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="3">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="2">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.9" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="7">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="6">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="3">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a3" scale="1" offset="0">
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-233.75" y="-27.45" skX="6.95" skY="6.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-256.8" y="-11.55" skX="-4.75" skY="-4.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-238.6" y="-24.7" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="7">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-232.5" y="-28.4" skX="7.48" skY="7.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="5">
+          <transform x="-257.7" y="-10.8" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="10">
+          <transform x="-238.4" y="-24.95" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="3">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="2">
+          <transform x="-229.8" y="-29.7" skX="8.23" skY="8.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="7">
+          <transform x="-255.7" y="-12.4" skX="-4.2" skY="-4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="6">
+          <transform x="-237.15" y="-25.7" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="3">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a4" scale="1" offset="0">
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-195.45" y="85" skX="6.95" skY="6.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-196.5" y="90.85" skX="-4.75" skY="-4.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-194.95" y="85.8" skX="4.2" skY="4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="7">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-195.25" y="84.4" skX="7.48" skY="7.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="5">
+          <transform x="-196.55" y="91.1" skX="-5.22" skY="-5.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="10">
+          <transform x="-195.3" y="85.7" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="3">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="2">
+          <transform x="-194.05" y="83.55" skX="8.23" skY="8.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="7">
+          <transform x="-196.45" y="90.5" skX="-4.2" skY="-4.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="6">
+          <transform x="-195.45" y="85.55" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="3">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b3" scale="1" offset="0">
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="215.8" y="8.45" skX="-4.21" skY="-4.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="225.85" y="28.8" skX="3.94" skY="3.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="216.8" y="10.75" skX="-3.21" skY="-3.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="7">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="215.1" y="7.2" skX="-4.7" skY="-4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="5">
+          <transform x="225.25" y="28.1" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="10">
+          <transform x="217.05" y="10.8" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="3">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="2">
+          <transform x="216.65" y="9.65" skX="-3.7" skY="-3.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="7">
+          <transform x="226" y="30.2" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="6">
+          <transform x="217.85" y="12" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="3">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b4" scale="1" offset="0">
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="248.35" y="61.7" skX="-4.21" skY="-4.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="250.55" y="86.15" skX="3.94" skY="3.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="248.4" y="64.55" skX="-3.21" skY="-3.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="7">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="248.1" y="60.15" skX="-4.7" skY="-4.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="5">
+          <transform x="250.1" y="85.35" skX="3.72" skY="3.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="10">
+          <transform x="248.7" y="64.6" skX="-3.23" skY="-3.23" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="3">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="2">
+          <transform x="248.7" y="63.25" skX="-3.7" skY="-3.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="7">
+          <transform x="250.1" y="87.8" skX="4.48" skY="4.48" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="6">
+          <transform x="249.05" y="66.05" skX="-2.74" skY="-2.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="3">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+    </animation>
+    <animation name="flower_attack3" fadeInTime="0.3" duration="42" scale="1" loop="1" tweenEasing="NaN">
+      <timeline name="flowerqueen_bianzi_b1" scale="1" offset="0">
+        <frame z="0" tweenEasing="0" duration="2">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="4">
+          <transform x="76.85" y="92.15" skX="-12.16" skY="-12.16" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="4">
+          <transform x="76.75" y="92.3" skX="13.07" skY="12.77" scX="1.02" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="13">
+          <transform x="79.25" y="92.15" skX="2.45" skY="2.45" scX="1.23" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="5">
+          <transform x="79" y="92.15" skX="0" skY="0" scX="1.21" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="3">
+          <transform x="84.7" y="91.55" skX="-5.15" skY="-1.89" scX="1.55" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="3">
+          <transform x="90.2" y="91.25" skX="-8.82" skY="-2.42" scX="1.87" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="5">
+          <transform x="83.65" y="90.9" skX="-9.71" skY="-4.94" scX="1.4" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="2">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="0" tweenEasing="0" duration="1">
+          <transform x="76.85" y="92.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a1" scale="1" offset="0">
+        <frame z="1" tweenEasing="0" duration="2">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="4">
+          <transform x="-161" y="95.85" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="4">
+          <transform x="-157.4" y="88.6" skX="-21.12" skY="-22.35" scX="1" scY="1.25" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="13">
+          <transform x="-163.9" y="96.25" skX="-20.27" skY="-20.97" scX="1" scY="1.18" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="5">
+          <transform x="-164.15" y="95.9" skX="-20.2" skY="-20.2" scX="1" scY="1.26" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="3">
+          <transform x="-167" y="90.3" skX="-31.72" skY="-29.61" scX="1.17" scY="1.56" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="3">
+          <transform x="-171.75" y="90.85" skX="-38.34" skY="-20.35" scX="1.44" scY="1.67" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="5">
+          <transform x="-164.25" y="91.85" skX="-27.67" skY="-23.85" scX="1.01" scY="1.45" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="2">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="1" tweenEasing="0" duration="1">
+          <transform x="-163.55" y="98" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_a" scale="1" offset="0">
+        <frame z="2" tweenEasing="0" duration="2">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="4">
+          <transform x="68.95" y="176.95" skX="-5.98" skY="-5.98" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="4">
+          <transform x="68.95" y="176.95" skX="-12.7" skY="-12.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="13">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="5">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="-2.29" skY="-2.29" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="3">
+          <transform x="68.95" y="176.95" skX="-4.31" skY="-4.31" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="5">
+          <transform x="68.95" y="176.95" skX="-6.47" skY="-6.47" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="2">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="2" tweenEasing="0" duration="1">
+          <transform x="68.95" y="176.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_d" scale="1" offset="0">
+        <frame z="3" tweenEasing="0" duration="2">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="4">
+          <transform x="-79.75" y="82.2" skX="7.72" skY="7.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="4">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="13">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="5">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="82.2" skX="3.02" skY="3.02" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="3">
+          <transform x="-79.75" y="82.2" skX="5.55" skY="5.55" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="5">
+          <transform x="-79.75" y="82.2" skX="8.22" skY="8.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="2">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="3" tweenEasing="0" duration="1">
+          <transform x="-79.75" y="82.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_yezi_b" scale="1" offset="0">
+        <frame z="4" tweenEasing="0" duration="2">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="4">
+          <transform x="-108.55" y="175.3" skX="5.74" skY="5.74" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="4">
+          <transform x="-108.55" y="175.3" skX="9.95" skY="9.95" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="13">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="5">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="1.76" skY="1.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="3">
+          <transform x="-108.55" y="175.3" skX="3.26" skY="3.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="5">
+          <transform x="-108.55" y="175.3" skX="4.73" skY="4.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="2">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="4" tweenEasing="0" duration="1">
+          <transform x="-108.55" y="175.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_c" scale="1" offset="0">
+        <frame z="5" tweenEasing="0" duration="2">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="4">
+          <transform x="33.2" y="85" skX="-8.19" skY="-8.19" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="4">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="13">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="5">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="85" skX="-3.28" skY="-3.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="3">
+          <transform x="33.2" y="85" skX="-6.05" skY="-6.05" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="5">
+          <transform x="33.2" y="85" skX="-8.97" skY="-8.97" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="2">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="5" tweenEasing="0" duration="1">
+          <transform x="33.2" y="85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b2" scale="1" offset="0">
+        <frame z="6" tweenEasing="0" duration="2">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="4">
+          <transform x="139.45" y="19.3" skX="-12.16" skY="-12.16" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="4">
+          <transform x="166.3" y="53" skX="13.07" skY="12.77" scX="1.02" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="13">
+          <transform x="175.95" y="38.15" skX="2.45" skY="2.45" scX="1.23" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="5">
+          <transform x="171.4" y="34.1" skX="0" skY="0" scX="1.21" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="3">
+          <transform x="197.9" y="29.55" skX="-5.15" skY="-1.89" scX="1.55" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="3">
+          <transform x="224.05" y="27.2" skX="-8.82" skY="-2.42" scX="1.87" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="5">
+          <transform x="180.65" y="24.1" skX="-9.71" skY="-4.94" scX="1.4" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="2">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="6" tweenEasing="0" duration="1">
+          <transform x="153.4" y="34.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a2" scale="1" offset="0">
+        <frame z="7" tweenEasing="0" duration="2">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="4">
+          <transform x="-178.85" y="32.3" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="4">
+          <transform x="-214.35" y="34.9" skX="-21.12" skY="-22.35" scX="1" scY="1.25" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="13">
+          <transform x="-218.55" y="45.6" skX="-20.27" skY="-20.97" scX="1" scY="1.18" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="5">
+          <transform x="-220.35" y="40.55" skX="-20.2" skY="-20.2" scX="1" scY="1.26" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="3">
+          <transform x="-248.15" y="35.05" skX="-31.72" skY="-29.61" scX="1.17" scY="1.56" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="3">
+          <transform x="-276.45" y="34.15" skX="-38.34" skY="-20.35" scX="1.44" scY="1.67" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="5">
+          <transform x="-233.55" y="32.85" skX="-27.67" skY="-23.85" scX="1.01" scY="1.45" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="2">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="7" tweenEasing="0" duration="1">
+          <transform x="-197.25" y="41.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a3" scale="1" offset="0">
+        <frame z="8" tweenEasing="0" duration="2">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="1">
+          <transform x="-33.4" y="121.25" skX="5.21" skY="5.21" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="8" tweenEasing="0" duration="2">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="8" tweenEasing="0" duration="1">
+          <transform x="-33.4" y="121.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a2" scale="1" offset="0">
+        <frame z="9" tweenEasing="0" duration="2">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="1">
+          <transform x="-12.05" y="123.15" skX="-5.19" skY="-5.19" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="9" tweenEasing="0" duration="2">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="9" tweenEasing="0" duration="1">
+          <transform x="-12.05" y="123.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a01" scale="1" offset="0">
+        <frame duration="3" displayIndex="-1"/>
+        <frame z="10" tweenEasing="0" duration="2">
+          <transform x="-22.15" y="232.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="10" displayIndex="1" tweenEasing="0" duration="2">
+          <transform x="-22.15" y="233.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="21" displayIndex="-1"/>
+        <frame z="10" displayIndex="2" tweenEasing="0" duration="1">
+          <transform x="-22.15" y="233.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="10" displayIndex="3" tweenEasing="0" duration="3">
+          <transform x="-22.15" y="232.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="10" displayIndex="4" tweenEasing="0" duration="3">
+          <transform x="-22.15" y="232.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="10" displayIndex="5" tweenEasing="0" duration="3">
+          <transform x="-22.15" y="232.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="10" displayIndex="5" tweenEasing="0" duration="1">
+          <transform x="-22.15" y="232.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="3" displayIndex="-1"/>
+      </timeline>
+      <timeline name="flowerqueen_hair_b" scale="1" offset="0">
+        <frame z="11" tweenEasing="0" duration="2">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="4">
+          <transform x="18.4" y="-178" skX="8.12" skY="8.12" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="4">
+          <transform x="21.2" y="-156" skX="11.39" skY="11.39" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="1">
+          <transform x="16.25" y="-145.05" skX="-7.73" skY="-7.73" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="41.7" y="-127.45" skX="-4.54" skY="-4.54" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="3">
+          <transform x="18.45" y="-148.8" skX="-6.8" skY="-6.8" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="5">
+          <transform x="-7.5" y="-186.15" skX="-13.76" skY="-13.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="2">
+          <transform x="8.2" y="-187.1" skX="2.25" skY="2.25" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="11" tweenEasing="0" duration="1">
+          <transform x="3.15" y="-186.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hair_a" scale="1" offset="0">
+        <frame z="12" tweenEasing="0" duration="2">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="4">
+          <transform x="-22.2" y="-175.25" skX="7.15" skY="7.15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="4">
+          <transform x="-19.1" y="-162.25" skX="6.7" skY="6.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="1">
+          <transform x="-21.65" y="-148.15" skX="-6.53" skY="-6.53" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="2.25" y="-126.45" skX="-6.77" skY="-6.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="3">
+          <transform x="-20.75" y="-144.45" skX="-7.76" skY="-7.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="5">
+          <transform x="-45.55" y="-175.45" skX="-13.26" skY="-13.26" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="2">
+          <transform x="-31.3" y="-176.65" skX="2.22" skY="2.22" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="12" tweenEasing="0" duration="1">
+          <transform x="-36.8" y="-178" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b1" scale="1" offset="0">
+        <frame z="13" tweenEasing="0" duration="2">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="4">
+          <transform x="1.25" y="-88.3" skX="22.48" skY="19.69" scX="0.97" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="4">
+          <transform x="-21.85" y="-83.05" skX="34.26" skY="25.47" scX="0.92" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="1">
+          <transform x="-27.05" y="-66.75" skX="37.15" skY="22.33" scX="0.87" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="-9.4" y="-68.45" skX="18.03" skY="11.72" scX="0.94" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="3">
+          <transform x="-6.45" y="-67.25" skX="-42.21" skY="-48.04" scX="0.94" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="5">
+          <transform x="-9.15" y="-95.15" skX="-56.36" skY="-62.21" scX="0.95" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="2">
+          <transform x="8.35" y="-96.35" skX="2.46" skY="2.46" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="13" tweenEasing="0" duration="1">
+          <transform x="-1.4" y="-95.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b2" scale="1" offset="0">
+        <frame z="14" tweenEasing="0" duration="2">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="4">
+          <transform x="-21.85" y="118.45" skX="5.6" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="4">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="1">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.4" skX="-3.51" skY="0" scX="1" scY="0.99" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="3">
+          <transform x="-21.85" y="118.4" skX="-5" skY="0" scX="1" scY="0.98" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="5">
+          <transform x="-21.85" y="118.45" skX="-6.49" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="2">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="14" tweenEasing="0" duration="1">
+          <transform x="-21.85" y="118.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_b" scale="1" offset="0">
+        <frame z="15" tweenEasing="0" duration="2">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="4">
+          <transform x="-16.65" y="106.25" skX="-1.75" skY="-1.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="4">
+          <transform x="-13.15" y="101.75" skX="-15.43" skY="-14.15" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="1">
+          <transform x="-12.65" y="102.85" skX="-19.6" skY="-16.59" scX="1" scY="0.85" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-12.85" y="104.2" skX="-14.19" skY="-12.2" scX="1" scY="0.77" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="3">
+          <transform x="-14.2" y="103.1" skX="-11.17" skY="-9.99" scX="1" scY="0.85" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="5">
+          <transform x="-16.05" y="101.5" skX="-3.56" skY="-3.56" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="2">
+          <transform x="-18.45" y="102.1" skX="4.72" skY="4.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="15" tweenEasing="0" duration="1">
+          <transform x="-17.15" y="101.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_body_a" scale="1" offset="0">
+        <frame z="16" tweenEasing="0" duration="2">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="4">
+          <transform x="-17.8" y="-45.55" skX="7.96" skY="7.96" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="4">
+          <transform x="-43.05" y="-33.45" skX="20.5" skY="20.5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="1">
+          <transform x="-51.8" y="-25.5" skX="24.17" skY="24.17" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="-37.15" y="-14.15" skX="34.03" skY="34.03" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="3">
+          <transform x="-33.25" y="-24.75" skX="18.81" skY="18.81" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="5">
+          <transform x="-21.55" y="-50" skX="-0.7" skY="-0.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="2">
+          <transform x="-2.25" y="-50.65" skX="-2.99" skY="-2.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="16" tweenEasing="0" duration="1">
+          <transform x="-14.35" y="-50.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_b1" scale="1" offset="0">
+        <frame z="17" tweenEasing="0" duration="2">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="4">
+          <transform x="-12.1" y="151.8" skX="-7.46" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="4">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="1">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="149.4" skX="2.77" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="3">
+          <transform x="-12.1" y="149.4" skX="3.81" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="5">
+          <transform x="-12.1" y="149.4" skX="5.22" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="2">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="17" tweenEasing="0" duration="1">
+          <transform x="-12.1" y="149.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_head" scale="1" offset="0">
+        <frame z="18" tweenEasing="0" duration="2">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="4">
+          <transform x="-19.35" y="-121.05" skX="7.96" skY="7.96" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="4">
+          <transform x="-27.95" y="-108.7" skX="20.5" skY="20.5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="1">
+          <transform x="-32.5" y="-97.9" skX="24.17" skY="24.17" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="0.15" y="-73.65" skX="13.78" skY="13.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="3">
+          <transform x="-18.25" y="-91.75" skX="8.76" skY="8.76" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="5">
+          <transform x="-34.5" y="-123.65" skX="-0.7" skY="-0.7" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="2">
+          <transform x="-18.1" y="-123.9" skX="-2.99" skY="-2.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="18" tweenEasing="0" duration="1">
+          <transform x="-26.4" y="-124.65" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_xuxu" scale="1" offset="0">
+        <frame z="19" tweenEasing="0" duration="2">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="4">
+          <transform x="-11.25" y="31.55" skX="-1.75" skY="-1.75" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="4">
+          <transform x="-23.35" y="36.35" skX="-15.43" skY="-14.15" scX="1" scY="0.89" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="1">
+          <transform x="-26.5" y="40.95" skX="-19.6" skY="-16.59" scX="1" scY="0.85" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-19.75" y="46.85" skX="-14.19" skY="-12.2" scX="1" scY="0.77" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="3">
+          <transform x="-19.3" y="39.85" skX="-11.17" skY="-9.99" scX="1" scY="0.85" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="5">
+          <transform x="-13.2" y="26.8" skX="-3.56" skY="-3.56" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="2">
+          <transform x="-4.55" y="28.35" skX="4.72" skY="4.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="19" tweenEasing="0" duration="1">
+          <transform x="-9.4" y="26.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a1" scale="1" offset="0">
+        <frame z="20" tweenEasing="0" duration="2">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="4">
+          <transform x="-41.55" y="-94.2" skX="-0.84" skY="-0.84" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="4">
+          <transform x="-56.9" y="-84.3" skX="-21.34" skY="-21.34" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="1">
+          <transform x="-64.2" y="-75.3" skX="-35.83" skY="-35.83" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-42.1" y="-65.65" skX="-16.05" skY="-16.05" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="3">
+          <transform x="-59.5" y="-75.8" skX="44.69" skY="44.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="5">
+          <transform x="-54.55" y="-95.3" skX="61.32" skY="61.32" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="2">
+          <transform x="-40.55" y="-95.65" skX="-7.94" skY="-7.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="20" tweenEasing="0" duration="1">
+          <transform x="-50.25" y="-97.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a2" scale="1" offset="0">
+        <frame z="21" tweenEasing="0" duration="2">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="4">
+          <transform x="-76.05" y="-59.8" skX="51.56" skY="51.56" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="4">
+          <transform x="-74.25" y="-38.35" skX="106.06" skY="106.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="1">
+          <transform x="-70.15" y="-25.8" skX="101.93" skY="101.93" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-64.65" y="-23" skX="83.2" skY="83.2" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="3">
+          <transform x="-106.9" y="-73.9" skX="101.02" skY="101.02" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="5">
+          <transform x="-98.95" y="-108.25" skX="63.79" skY="63.79" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="2">
+          <transform x="-71.7" y="-53.7" skX="-7.94" skY="-7.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="21" tweenEasing="0" duration="1">
+          <transform x="-86.9" y="-60.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_a3" scale="1" offset="0">
+        <frame z="22" tweenEasing="0" duration="2">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="4">
+          <transform x="-119.55" y="-80.8" skX="11.57" skY="11.57" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="4">
+          <transform x="-83.35" y="-86.3" skX="46.06" skY="46.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="1">
+          <transform x="-80.55" y="-70.45" skX="131.93" skY="131.93" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-86.65" y="-65.5" skX="134.89" skY="134.89" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="3">
+          <transform x="-116.6" y="-121.15" skX="141.99" skY="141.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="5">
+          <transform x="-131.4" y="-136.9" skX="123.79" skY="123.79" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="2">
+          <transform x="-108.35" y="-32.1" skX="7.06" skY="7.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="22" tweenEasing="0" duration="1">
+          <transform x="-126.2" y="-44.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b2" scale="1" offset="0">
+        <frame z="23" tweenEasing="0" duration="2">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="4">
+          <transform x="25.15" y="-46.55" skX="-25.98" skY="-25.98" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="4">
+          <transform x="-5.85" y="-41.85" skX="-67.6" skY="-67.6" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="-15.1" y="-29.15" skX="-69.09" skY="-69.09" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="16.1" y="-32.9" skX="-61.68" skY="-61.68" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="3">
+          <transform x="43.9" y="-73.4" skX="-83.5" skY="-83.5" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="5">
+          <transform x="39.7" y="-116.05" skX="-66.88" skY="-66.88" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="2">
+          <transform x="52.85" y="-60.8" skX="2.46" skY="2.46" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="23" tweenEasing="0" duration="1">
+          <transform x="44.6" y="-62.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_hand_b3" scale="1" offset="0">
+        <frame z="24" tweenEasing="0" duration="2">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="4">
+          <transform x="75.65" y="-54.8" skX="3.62" skY="3.62" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="4">
+          <transform x="29.2" y="-81.55" skX="-22.6" skY="-22.6" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="17.05" y="-74.95" skX="-99.09" skY="-99.09" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="50.9" y="-69.9" skX="-103.11" skY="-103.11" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="3">
+          <transform x="65.1" y="-126.35" skX="-104.05" skY="-104.06" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="5">
+          <transform x="70.2" y="-152.05" skX="-96.88" skY="-96.88" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="2">
+          <transform x="101.5" y="-43.55" skX="-12.54" skY="-12.54" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="24" tweenEasing="0" duration="1">
+          <transform x="93.95" y="-46.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_a" scale="1" offset="0">
+        <frame z="25" tweenEasing="0" duration="2">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="4">
+          <transform x="-0.6" y="153.25" skX="-5.94" skY="-5.94" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="4">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="1">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="153.25" skX="-5.3" skY="-5.3" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="3">
+          <transform x="-0.6" y="153.25" skX="-5.78" skY="-5.78" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="5">
+          <transform x="-0.6" y="153.25" skX="-6.46" skY="-6.46" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="2">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="25" tweenEasing="0" duration="1">
+          <transform x="-0.6" y="153.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_tengman_b" scale="1" offset="0">
+        <frame z="26" tweenEasing="0" duration="2">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="4">
+          <transform x="-26.5" y="154.7" skX="8.69" skY="8.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="4">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="1">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="17" displayIndex="-1"/>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.5" y="154.7" skX="3.77" skY="3.77" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="3">
+          <transform x="-26.55" y="154.65" skX="5.28" skY="5.28" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="5">
+          <transform x="-26.5" y="154.7" skX="6.98" skY="6.98" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="2">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="26" tweenEasing="0" duration="1">
+          <transform x="-26.5" y="154.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a1" scale="1" offset="0">
+        <frame z="27" tweenEasing="0" duration="2">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="1">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="0.83" pX="0" pY="0"/>
+        </frame>
+        <frame duration="36" displayIndex="-1"/>
+        <frame z="27" tweenEasing="0" duration="2">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="27" tweenEasing="0" duration="1">
+          <transform x="-21.65" y="167.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_huaban_a0" scale="1" offset="0">
+        <frame duration="3" displayIndex="-1"/>
+        <frame z="28" tweenEasing="0" duration="2">
+          <transform x="-20.65" y="227" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="1" tweenEasing="0" duration="2">
+          <transform x="-17.4" y="226.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="2" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="3" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="232.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="4" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="5" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="4" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="5" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="4" tweenEasing="0" duration="2">
+          <transform x="-17.65" y="231.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="5" tweenEasing="0" duration="6">
+          <transform x="-17.65" y="231.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="6" tweenEasing="0" duration="1">
+          <transform x="-16.65" y="234.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="7" tweenEasing="0" duration="1">
+          <transform x="-18.15" y="229.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="8" tweenEasing="0" duration="3">
+          <transform x="-18.15" y="231.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="9" tweenEasing="0" duration="3">
+          <transform x="-17.65" y="232.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="10" tweenEasing="0" duration="3">
+          <transform x="-17.35" y="225.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="28" displayIndex="10" tweenEasing="0" duration="1">
+          <transform x="-17.35" y="225.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame duration="3" displayIndex="-1"/>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a3" scale="1" offset="0">
+        <frame z="29" tweenEasing="0" duration="2">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="4">
+          <transform x="-211.75" y="-38.8" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="4">
+          <transform x="-291.5" y="-17.1" skX="-8.99" skY="-8.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="13">
+          <transform x="-293.1" y="-3.9" skX="-5.69" skY="-5.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="5">
+          <transform x="-295.1" y="-14.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="3">
+          <transform x="-352.9" y="-19.6" skX="-1.89" skY="-1.89" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="3">
+          <transform x="-407.85" y="-22.85" skX="16.14" skY="15.37" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="5">
+          <transform x="-325" y="-26.1" skX="22.49" skY="22.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="2">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="29" tweenEasing="0" duration="1">
+          <transform x="-247.4" y="-18.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_a4" scale="1" offset="0">
+        <frame z="30" tweenEasing="0" duration="2">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="4">
+          <transform x="-189.6" y="77.95" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="4">
+          <transform x="-223.75" y="80.55" skX="-8.99" skY="-8.99" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="13">
+          <transform x="-231.15" y="97.5" skX="-5.69" skY="-5.69" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="5">
+          <transform x="-243.5" y="92.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="3">
+          <transform x="-298.2" y="85.55" skX="-1.89" skY="-1.89" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="3">
+          <transform x="-387.4" y="88.65" skX="16.14" skY="15.37" scX="1" scY="0.97" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="5">
+          <transform x="-318.2" y="92.45" skX="22.49" skY="22.49" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="2">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="30" tweenEasing="0" duration="1">
+          <transform x="-195.8" y="88.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b3" scale="1" offset="0">
+        <frame z="31" tweenEasing="0" duration="2">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="4">
+          <transform x="202.45" y="-10" skX="-18.14" skY="-18.14" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="4">
+          <transform x="245.35" y="55.35" skX="32.68" skY="32.68" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="13">
+          <transform x="262.7" y="25.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="5">
+          <transform x="258.05" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="3">
+          <transform x="310.65" y="13.8" skX="15.87" skY="16.18" scX="1" scY="1.16" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="3">
+          <transform x="346.95" y="5.7" skX="-13.08" skY="-14.02" scX="1" scY="1.1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="5">
+          <transform x="281.7" y="0.65" skX="-12.72" skY="-12.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="2">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="31" tweenEasing="0" duration="1">
+          <transform x="221.15" y="18.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+      <timeline name="flowerqueen_bianzi_b4" scale="1" offset="0">
+        <frame z="32" tweenEasing="0" duration="2">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="4">
+          <transform x="246.85" y="33.8" skX="-18.14" skY="-18.14" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="4">
+          <transform x="239.4" y="117.5" skX="32.68" skY="32.68" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="13">
+          <transform x="291.25" y="81.3" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="5">
+          <transform x="286.6" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="3">
+          <transform x="320.35" y="83.85" skX="15.87" skY="16.18" scX="1" scY="1.16" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="3">
+          <transform x="388.2" y="58" skX="-13.08" skY="-14.02" scX="1" scY="1.1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="5">
+          <transform x="321.7" y="48.45" skX="-12.72" skY="-12.72" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="2">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+        <frame z="32" tweenEasing="0" duration="1">
+          <transform x="249.7" y="74.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+        </frame>
+      </timeline>
+    </animation>
+  </armature>
+</dragonBones>

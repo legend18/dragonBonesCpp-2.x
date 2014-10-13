@@ -1,0 +1,25 @@
+<TextureAtlas name="GLJS" imagePath="texture.png">
+ <SubTexture name="GLJS_shape/GLJS_wing_a2" x="0" y="76" width="89" height="52"/>
+ <SubTexture name="GLJS_shape/GLJS_hand_a2" x="207" y="123" width="19" height="38"/>
+ <SubTexture name="GLJS_shape/GLJS_hand_a1" x="228" y="144" width="18" height="30"/>
+ <SubTexture name="GLJS_shape/GLJS_jian" x="207" y="54" width="23" height="67"/>
+ <SubTexture name="GLJS_shape/GLJS_head" x="87" y="149" width="37" height="36"/>
+ <SubTexture name="GLJS_shape/GLJS_jaw" x="0" y="163" width="25" height="22"/>
+ <SubTexture name="GLJS_shape/GLJS_body_b" x="169" y="126" width="36" height="36"/>
+ <SubTexture name="GLJS_shape/GLJS_wing_a1" x="0" y="130" width="86" height="32"/>
+ <SubTexture name="GLJS_shape/GLJS_leg_a1" x="50" y="163" width="20" height="23"/>
+ <SubTexture name="GLJS_shape/GLJS_leg_a2" x="151" y="76" width="23" height="46"/>
+ <SubTexture name="GLJS_shape/GLJS_body_a" x="126" y="149" width="20" height="23"/>
+ <SubTexture name="GLJS_shape/GLJS_leg_b1" x="27" y="163" width="21" height="23"/>
+ <SubTexture name="GLJS_shape/GLJS_leg_b2" x="232" y="54" width="22" height="44"/>
+ <SubTexture name="GLJS_shape/GLJS_jiantong_a" x="232" y="100" width="21" height="42"/>
+ <SubTexture name="GLJS_shape/GLJS_jiantong_b" x="176" y="54" width="29" height="70"/>
+ <SubTexture name="GLJS_shape/GLJS_hand_b1" x="241" y="0" width="11" height="26"/>
+ <SubTexture name="GLJS_shape/GLJS_hand_b2" x="148" y="124" width="19" height="38"/>
+ <SubTexture name="GLJS_shape/GLJS_wing_b1" x="91" y="76" width="59" height="31"/>
+ <SubTexture name="GLJS_shape/GLJS_wing_b2" x="176" y="0" width="63" height="52"/>
+ <SubTexture name="GLJS_shape/GLJS_gongxuan_1" x="91" y="129" width="56" height="19"/>
+ <SubTexture name="GLJS_shape/GLJS_gongxuan_2" x="91" y="108" width="56" height="20"/>
+ <SubTexture name="GLJS_shape/GLJS_gong" x="0" y="0" width="175" height="74"/>
+ <SubTexture name="GLJS_shape/GLJS_hand_b3" x="241" y="28" width="13" height="16"/>
+</TextureAtlas>

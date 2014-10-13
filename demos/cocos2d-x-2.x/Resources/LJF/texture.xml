@@ -1,0 +1,14 @@
+<TextureAtlas name="LJF" imagePath="texture.png">
+  <SubTexture name="LJF_shape/LJF_0" x="0" y="0" width="249" height="250"/>
+  <SubTexture name="LJF_shape/LJF_1" x="250" y="0" width="208" height="208"/>
+  <SubTexture name="LJF_shape/LJF_eye" x="503" y="210" width="109" height="89"/>
+  <SubTexture name="LJF_shape/LJF_10" x="795" y="169" width="141" height="141"/>
+  <SubTexture name="LJF_shape/LJF_8" x="0" y="251" width="96" height="96"/>
+  <SubTexture name="LJF_shape/LJF_3" x="654" y="169" width="140" height="144"/>
+  <SubTexture name="LJF_shape/LJF_7" x="379" y="210" width="122" height="122"/>
+  <SubTexture name="LJF_shape/LJF_2" x="654" y="0" width="168" height="168"/>
+  <SubTexture name="LJF_shape/LJF_4" x="459" y="0" width="194" height="208"/>
+  <SubTexture name="LJF_shape/LJF_6" x="938" y="169" width="71" height="64"/>
+  <SubTexture name="LJF_shape/LJF_9" x="250" y="209" width="128" height="128"/>
+  <SubTexture name="LJF_shape/LJF_5" x="823" y="0" width="167" height="167"/>
+</TextureAtlas>

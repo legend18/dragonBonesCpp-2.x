@@ -1,0 +1,1149 @@
+<dragonBones name="GLJS" frameRate="24" version="2.3">
+ <armature name="GLJS">
+  <bone name="GLJS_wing_a2">
+   <transform x="-20.15" y="-29.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_hand_a2">
+   <transform x="-19.75" y="17.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_hand_a1">
+   <transform x="-11.15" y="-8.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_jian">
+   <transform x="-9.7" y="-18.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_head">
+   <transform x="8.15" y="-8.95" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_jaw">
+   <transform x="9.7" y="-8.55" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_body_b">
+   <transform x="-16.8" y="18.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_wing_a1">
+   <transform x="-7" y="-6.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_leg_a1">
+   <transform x="-22.1" y="33.35" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_leg_a2">
+   <transform x="-7.95" y="50.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_body_a">
+   <transform x="-15.4" y="24" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_leg_b1">
+   <transform x="-10.2" y="25.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_leg_b2">
+   <transform x="3.9" y="42.8" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_jiantong_a">
+   <transform x="-6.5" y="0.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_jiantong_b">
+   <transform x="-10.9" y="-15.5" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_hand_b1">
+   <transform x="3.95" y="-12.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_hand_b2">
+   <transform x="10.35" y="14.75" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_wing_b1">
+   <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_wing_b2">
+   <transform x="2.4" y="-38.9" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_gongxuan_1">
+   <transform x="-31.2" y="43.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_gongxuan_2">
+   <transform x="72.2" y="15.15" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_gong">
+   <transform x="19.25" y="39.05" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <bone name="GLJS_hand_b3">
+   <transform x="18.85" y="33.7" skX="0" skY="0" scX="1" scY="1"/>
+  </bone>
+  <skin name="">
+   <slot name="GLJS_hand_b3" parent="GLJS_hand_b3" z="0">
+    <display name="GLJS_shape/GLJS_hand_b3" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="2.15" pY="1.8"/>
+    </display>
+   </slot>
+   <slot name="GLJS_gong" parent="GLJS_gong" z="1">
+    <display name="GLJS_shape/GLJS_gong" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="89.6" pY="41.55"/>
+    </display>
+   </slot>
+   <slot name="GLJS_gongxuan_2" parent="GLJS_gongxuan_2" z="2">
+    <display name="GLJS_shape/GLJS_gongxuan_2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="54.2" pY="1.65"/>
+    </display>
+   </slot>
+   <slot name="GLJS_gongxuan_1" parent="GLJS_gongxuan_1" z="3">
+    <display name="GLJS_shape/GLJS_gongxuan_1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="1.4" pY="16.8"/>
+    </display>
+   </slot>
+   <slot name="GLJS_wing_b2" parent="GLJS_wing_b2" z="4">
+    <display name="GLJS_shape/GLJS_wing_b2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="49.8" pY="51.6"/>
+    </display>
+   </slot>
+   <slot name="GLJS_wing_b1" parent="GLJS_wing_b1" z="5">
+    <display name="GLJS_shape/GLJS_wing_b1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="53.35" pY="26.75"/>
+    </display>
+   </slot>
+   <slot name="GLJS_hand_b2" parent="GLJS_hand_b2" z="6">
+    <display name="GLJS_shape/GLJS_hand_b2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="6.75" pY="5"/>
+    </display>
+   </slot>
+   <slot name="GLJS_hand_b1" parent="GLJS_hand_b1" z="7">
+    <display name="GLJS_shape/GLJS_hand_b1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="2.45" pY="2.9"/>
+    </display>
+   </slot>
+   <slot name="GLJS_jiantong_b" parent="GLJS_jiantong_b" z="8">
+    <display name="GLJS_shape/GLJS_jiantong_b" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="14.5" pY="35"/>
+    </display>
+   </slot>
+   <slot name="GLJS_jiantong_a" parent="GLJS_jiantong_a" z="9">
+    <display name="GLJS_shape/GLJS_jiantong_a" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="12.9" pY="21"/>
+    </display>
+   </slot>
+   <slot name="GLJS_leg_b2" parent="GLJS_leg_b2" z="10">
+    <display name="GLJS_shape/GLJS_leg_b2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="18.15" pY="4.35"/>
+    </display>
+   </slot>
+   <slot name="GLJS_leg_b1" parent="GLJS_leg_b1" z="11">
+    <display name="GLJS_shape/GLJS_leg_b1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="3.15" pY="3.25"/>
+    </display>
+   </slot>
+   <slot name="GLJS_body_a" parent="GLJS_body_a" z="12">
+    <display name="GLJS_shape/GLJS_body_a" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="10" pY="11.5"/>
+    </display>
+   </slot>
+   <slot name="GLJS_leg_a2" parent="GLJS_leg_a2" z="13">
+    <display name="GLJS_shape/GLJS_leg_a2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="19.45" pY="5.6"/>
+    </display>
+   </slot>
+   <slot name="GLJS_leg_a1" parent="GLJS_leg_a1" z="14">
+    <display name="GLJS_shape/GLJS_leg_a1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="3" pY="3.25"/>
+    </display>
+   </slot>
+   <slot name="GLJS_wing_a1" parent="GLJS_wing_a1" z="15">
+    <display name="GLJS_shape/GLJS_wing_a1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="80.45" pY="23.25"/>
+    </display>
+   </slot>
+   <slot name="GLJS_body_b" parent="GLJS_body_b" z="16">
+    <display name="GLJS_shape/GLJS_body_b" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="5.55" pY="32.25"/>
+    </display>
+   </slot>
+   <slot name="GLJS_jaw" parent="GLJS_jaw" z="17">
+    <display name="GLJS_shape/GLJS_jaw" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="4.1" pY="8.05"/>
+    </display>
+   </slot>
+   <slot name="GLJS_head" parent="GLJS_head" z="18">
+    <display name="GLJS_shape/GLJS_head" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="10.5" pY="26.55"/>
+    </display>
+   </slot>
+   <slot name="GLJS_jian" parent="GLJS_jian" z="19">
+    <display name="GLJS_shape/GLJS_jian" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="12.75" pY="28.9"/>
+    </display>
+   </slot>
+   <slot name="GLJS_hand_a1" parent="GLJS_hand_a1" z="20">
+    <display name="GLJS_shape/GLJS_hand_a1" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="13.2" pY="4.05"/>
+    </display>
+   </slot>
+   <slot name="GLJS_hand_a2" parent="GLJS_hand_a2" z="21">
+    <display name="GLJS_shape/GLJS_hand_a2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="4.65" pY="2.9"/>
+    </display>
+   </slot>
+   <slot name="GLJS_wing_a2" parent="GLJS_wing_a2" z="22">
+    <display name="GLJS_shape/GLJS_wing_a2" type="image">
+     <transform x="0" y="0" skX="0" skY="0" scX="1" scY="1" pX="84.15" pY="51.75"/>
+    </display>
+   </slot>
+  </skin>
+  <animation name="GLJS_hold" fadeInTime="0.3" duration="16" scale="1" loop="0" tweenEasing="NaN">
+   <timeline name="GLJS_hand_b3" scale="1" offset="0">
+    <frame z="0" duration="4">
+     <transform x="18.85" y="33.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="16.25" y="17.95" skX="3.23" skY="3.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="16.7" y="1.3" skX="2.7" skY="2.7" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="3">
+     <transform x="18" y="16.65" skX="-4.28" skY="-4.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="18.65" y="29.45" skX="-1.02" skY="-1.02" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gong" scale="1" offset="0">
+    <frame z="1" duration="4">
+     <transform x="19.25" y="39.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="16.35" y="23.3" skX="7.19" skY="7.19" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="16.85" y="6.7" skX="8.69" skY="8.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="3">
+     <transform x="18.75" y="22" skX="0.94" skY="0.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="19.15" y="34.75" skX="0.06" skY="0.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gongxuan_2" scale="1" offset="0">
+    <frame z="2" duration="4">
+     <transform x="72.2" y="15.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="72.3" y="5.95" skX="7.19" skY="7.19" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="73.85" y="-8.4" skX="8.69" skY="8.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="3">
+     <transform x="72.55" y="-1.1" skX="0.94" skY="0.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="72.3" y="11.1" skX="0.06" skY="0.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gongxuan_1" scale="1" offset="0">
+    <frame z="3" duration="4">
+     <transform x="-31.2" y="43.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-34.25" y="21.3" skX="7.19" skY="7.19" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-33.8" y="4" skX="8.69" skY="8.69" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="3">
+     <transform x="-33.1" y="26.15" skX="0.94" skY="0.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-31.7" y="39.25" skX="0.06" skY="0.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_b2" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-38.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-20.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="1.5" y="-14.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-22" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-22" skX="180" skY="0" scX="1" scY="0.42" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="3">
+     <transform x="2.4" y="-55.35" skX="180" skY="0" scX="1" scY="0.53" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="2.4" y="-43" skX="45" skY="0" scX="1" scY="0.88" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_b1" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="0.26" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-0.4" y="-30.05" skX="180" skY="0" scX="1" scY="0.59" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-47.3" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-47.3" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="3">
+     <transform x="-0.4" y="-30.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="-0.4" y="-17.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_b2" scale="1" offset="0">
+    <frame z="6" duration="4">
+     <transform x="10.35" y="14.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="8.85" y="-1.45" skX="3.23" skY="3.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="9.1" y="-18" skX="2.7" skY="2.7" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="3">
+     <transform x="8.05" y="-1.6" skX="-4.28" skY="-4.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="9.8" y="10.7" skX="-1.02" skY="-1.02" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_b1" scale="1" offset="0">
+    <frame z="7" duration="4">
+     <transform x="3.95" y="-12.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="4" y="-29.4" skX="3.23" skY="3.23" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="4.05" y="-45.95" skX="2.7" skY="2.7" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="3">
+     <transform x="4.2" y="-29.75" skX="5.19" skY="5.19" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="3.95" y="-17.1" skX="1.26" skY="1.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jiantong_b" scale="1" offset="0">
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-15.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-31.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-48.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="3">
+     <transform x="-10.9" y="-31.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-10.9" y="-19.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jiantong_a" scale="1" offset="0">
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="0.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="-15.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="-32.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="3">
+     <transform x="-6.5" y="-15.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-6.5" y="-3.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_b2" scale="1" offset="0">
+    <frame z="10" duration="4">
+     <transform x="3.9" y="42.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="-0.5" y="27.95" skX="-6.73" skY="-6.73" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="3.9" y="9.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="3">
+     <transform x="6.8" y="23.45" skX="-0.97" skY="-0.97" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="4.65" y="37.95" skX="-0.06" skY="-0.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_b1" scale="1" offset="0">
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="25.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="9.35" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="-7.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="3">
+     <transform x="-10.2" y="9.35" skX="-10.46" skY="-10.46" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="-10.15" y="21.75" skX="-2.53" skY="-2.53" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_body_a" scale="1" offset="0">
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="24" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="7.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="-8.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="3">
+     <transform x="-15.4" y="7.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="-15.4" y="19.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_a2" scale="1" offset="0">
+    <frame z="13" duration="4">
+     <transform x="-7.95" y="50.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-10.75" y="35.7" skX="-6.04" skY="-6.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-7.95" y="17.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="3">
+     <transform x="-5.55" y="31.35" skX="-1.24" skY="-1.24" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="-7.3" y="45.45" skX="-0.26" skY="-0.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_a1" scale="1" offset="0">
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="33.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="16.9" skX="8.95" skY="8.95" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="0.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="3">
+     <transform x="-22.1" y="16.9" skX="-8.7" skY="-8.7" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="-22.15" y="29.25" skX="-2.04" skY="-2.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_a1" scale="1" offset="0">
+    <frame z="15" duration="2">
+     <transform x="-7" y="-6.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-7" y="-15.1" skX="-82.94" skY="0" scX="1" scY="0.81" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-7" y="-23.35" skX="-165.53" skY="0" scX="1" scY="0.62" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-11.2" y="-43.45" skX="-172.65" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-9.1" y="-33.4" skX="-96.01" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="3">
+     <transform x="-7" y="-23.35" skX="-19.43" skY="0" scX="1" scY="1.06" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="1">
+     <transform x="-6.95" y="-10.95" skX="-4.78" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_body_b" scale="1" offset="0">
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="18.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="2.35" skX="5.72" skY="5.72" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="-14.15" skX="4.71" skY="4.71" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="3">
+     <transform x="-16.8" y="2.35" skX="-3.97" skY="-3.97" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="-16.75" y="14.65" skX="-0.81" skY="-0.81" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jaw" scale="1" offset="0">
+    <frame z="17" duration="4">
+     <transform x="9.7" y="-8.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="9.6" y="-24.8" skX="8.71" skY="8.71" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="9.7" y="-41.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="3">
+     <transform x="9.7" y="-25.25" skX="-9.22" skY="-9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="9.75" y="-12.65" skX="-2.26" skY="-2.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_head" scale="1" offset="0">
+    <frame z="18" duration="4">
+     <transform x="8.15" y="-8.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="4">
+     <transform x="8.15" y="-25.4" skX="8.71" skY="8.71" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="4">
+     <transform x="8.15" y="-41.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="3">
+     <transform x="8.15" y="-25.4" skX="-9.22" skY="-9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="1">
+     <transform x="8.15" y="-13.05" skX="-2.26" skY="-2.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jian" scale="1" offset="0">
+    <frame z="19" duration="4">
+     <transform x="-9.7" y="-18.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="4">
+     <transform x="-9.7" y="-35.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="4">
+     <transform x="-9.7" y="-51.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="3">
+     <transform x="-9.7" y="-35.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="1">
+     <transform x="-9.7" y="-22.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_a1" scale="1" offset="0">
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-8.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-24.95" skX="-7.44" skY="-7.44" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-41.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="3">
+     <transform x="-11.15" y="-24.95" skX="4.49" skY="4.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="1">
+     <transform x="-11.15" y="-12.55" skX="1.03" skY="1.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_a2" scale="1" offset="0">
+    <frame z="21" duration="4">
+     <transform x="-19.75" y="17.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-16.35" y="1.8" skX="2.75" skY="2.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-19.75" y="-15.6" skX="-8.94" skY="-8.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="3">
+     <transform x="-21.8" y="0.1" skX="-5.25" skY="-5.25" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="1">
+     <transform x="-20.3" y="13.05" skX="-1.26" skY="-1.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_a2" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="-20.15" y="-29.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-33.7" y="-17.15" skX="-4.51" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="4">
+     <transform x="-23.75" y="-10.15" skX="-9.06" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-27.35" y="-20.6" skX="-174.48" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-43.1" y="-30.9" skX="-168.74" skY="0" scX="1" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="3">
+     <transform x="-29.9" y="-46.2" skX="-162.98" skY="0" scX="1" scY="0.9" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="1">
+     <transform x="-22.65" y="-33.85" skX="-40.64" skY="0" scX="1" scY="0.97" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+  <animation name="GLJS_attack" fadeInTime="0.3" duration="22" scale="1" loop="1" tweenEasing="NaN">
+   <timeline name="GLJS_hand_b3" scale="1" offset="0">
+    <frame z="0" duration="4">
+     <transform x="18.85" y="33.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="38.9" y="5.25" skX="-30.47" skY="-30.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="3">
+     <transform x="47.5" y="-37.25" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="2">
+     <transform x="47.5" y="-42.4" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="32.75" y="-12.9" skX="-35.57" skY="-35.57" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="4">
+     <transform x="22.4" y="13.4" skX="-19.28" skY="-19.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="0" duration="1">
+     <transform x="18.85" y="33.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gong" scale="1" offset="0">
+    <frame z="1" duration="4">
+     <transform x="19.25" y="39.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="41.95" y="9.65" skX="-20.03" skY="-20.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="3">
+     <transform x="52.6" y="-35.5" skX="-60.76" skY="-60.76" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="2">
+     <transform x="52.6" y="-40.65" skX="-71.26" skY="-71.26" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="35.75" y="-9.4" skX="-35.1" skY="-35.1" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="4">
+     <transform x="24.55" y="18.45" skX="-14.06" skY="-14.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="1" duration="1">
+     <transform x="19.25" y="39.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gongxuan_2" scale="1" offset="0">
+    <frame z="2" duration="4">
+     <transform x="72.2" y="15.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="83.75" y="-31.35" skX="-20.03" skY="-20.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="3">
+     <transform x="58.45" y="-94.15" skX="-60.76" skY="-60.76" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="2">
+     <transform x="47.65" y="-99.35" skX="-36.55" skY="-36.55" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="64.9" y="-58.35" skX="-32.78" skY="-32.78" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="4">
+     <transform x="70.5" y="-17.85" skX="-14.06" skY="-14.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="2" duration="1">
+     <transform x="72.2" y="15.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_gongxuan_1" scale="1" offset="0">
+    <frame z="3" duration="4">
+     <transform x="-31.2" y="43.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-3.95" y="31" skX="-20.03" skY="-20.03" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="3">
+     <transform x="32.3" y="11" skX="-60.76" skY="-60.76" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="2">
+     <transform x="41.1" y="8.8" skX="-112.49" skY="-112.49" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-3.35" y="23.7" skX="-36.38" skY="-36.38" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="4">
+     <transform x="-24.5" y="35.85" skX="-14.06" skY="-14.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="3" duration="1">
+     <transform x="-31.2" y="43.7" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_b2" scale="1" offset="0">
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-38.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-20.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="1.5" y="-14.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="3">
+     <transform x="2.4" y="-22" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="2">
+     <transform x="2.4" y="-27.15" skX="180" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="2.4" y="-41.25" skX="180" skY="0" scX="1" scY="0.76" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="4">
+     <transform x="2.4" y="-55.35" skX="180" skY="0" scX="1" scY="0.53" pX="0" pY="0"/>
+    </frame>
+    <frame z="4" duration="1">
+     <transform x="2.4" y="-38.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_b1" scale="1" offset="0">
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="0.26" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-0.4" y="-30.05" skX="180" skY="0" scX="1" scY="0.59" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="3">
+     <transform x="-0.4" y="-47.3" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="2">
+     <transform x="-0.4" y="-50.45" skX="180" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-0.4" y="-50.45" skX="180" skY="0" scX="1" scY="0.36" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="4">
+     <transform x="-0.4" y="-30.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="5" duration="1">
+     <transform x="-0.4" y="-13.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_b2" scale="1" offset="0">
+    <frame z="6" duration="4">
+     <transform x="10.35" y="14.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="22" y="-6.8" skX="-30.47" skY="-30.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="3">
+     <transform x="26.75" y="-36.95" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="2">
+     <transform x="26.75" y="-42.1" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="17.35" y="-21.85" skX="-35.57" skY="-35.57" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="4">
+     <transform x="8.05" y="-1.6" skX="-19.28" skY="-19.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="6" duration="1">
+     <transform x="10.35" y="14.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_b1" scale="1" offset="0">
+    <frame z="7" duration="4">
+     <transform x="3.95" y="-12.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="2.45" y="-27.35" skX="-30.47" skY="-30.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="3">
+     <transform x="-1.2" y="-42" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="2">
+     <transform x="-1.2" y="-47.15" skX="-66.75" skY="-66.75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="1.55" y="-38.45" skX="-30.8" skY="-30.8" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="4">
+     <transform x="4.2" y="-29.75" skX="5.19" skY="5.19" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="7" duration="1">
+     <transform x="3.95" y="-12.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jiantong_b" scale="1" offset="0">
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-15.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-31.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="3">
+     <transform x="-10.9" y="-48.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="2">
+     <transform x="-10.9" y="-53.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-42.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="4">
+     <transform x="-10.9" y="-31.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="8" duration="1">
+     <transform x="-10.9" y="-15.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jiantong_a" scale="1" offset="0">
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="0.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="-15.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="3">
+     <transform x="-6.5" y="-32.45" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="2">
+     <transform x="-6.5" y="-37.6" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="-26.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="4">
+     <transform x="-6.5" y="-15.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="9" duration="1">
+     <transform x="-6.5" y="0.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_b2" scale="1" offset="0">
+    <frame z="10" duration="4">
+     <transform x="3.9" y="42.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="-0.5" y="27.95" skX="-6.73" skY="-6.73" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="3">
+     <transform x="3.9" y="9.85" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="2">
+     <transform x="6.85" y="1.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="6.75" y="13.05" skX="-0.31" skY="-0.31" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="4">
+     <transform x="6.8" y="23.45" skX="-0.97" skY="-0.97" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="10" duration="1">
+     <transform x="3.9" y="42.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_b1" scale="1" offset="0">
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="25.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="9.35" skX="15" skY="15" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="3">
+     <transform x="-10.2" y="-7.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="2">
+     <transform x="-10.2" y="-12.3" skX="-16.43" skY="-16.43" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="-1.45" skX="-20.06" skY="-20.06" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="4">
+     <transform x="-10.2" y="9.35" skX="-10.46" skY="-10.46" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="11" duration="1">
+     <transform x="-10.2" y="25.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_body_a" scale="1" offset="0">
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="24" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="7.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="3">
+     <transform x="-15.4" y="-8.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="2">
+     <transform x="-15.4" y="-14.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="-3.25" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="4">
+     <transform x="-15.4" y="7.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="12" duration="1">
+     <transform x="-15.4" y="24" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_a2" scale="1" offset="0">
+    <frame z="13" duration="4">
+     <transform x="-7.95" y="50.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-10.75" y="35.7" skX="-6.04" skY="-6.04" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="3">
+     <transform x="-7.95" y="17.2" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="2">
+     <transform x="-5" y="9.1" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-5.35" y="20.65" skX="-0.53" skY="-0.53" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="4">
+     <transform x="-5.55" y="31.35" skX="-1.24" skY="-1.24" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="13" duration="1">
+     <transform x="-7.95" y="50.15" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_leg_a1" scale="1" offset="0">
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="33.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="16.9" skX="8.95" skY="8.95" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="3">
+     <transform x="-22.1" y="0.4" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="2">
+     <transform x="-22.1" y="-4.75" skX="-15" skY="-15" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="6.1" skX="-19.28" skY="-19.28" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="4">
+     <transform x="-22.1" y="16.9" skX="-8.7" skY="-8.7" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="14" duration="1">
+     <transform x="-22.1" y="33.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_a1" scale="1" offset="0">
+    <frame z="15" duration="2">
+     <transform x="-7" y="-6.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-7" y="-15.1" skX="-82.94" skY="0" scX="1" scY="0.81" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-7" y="-23.35" skX="-165.53" skY="0" scX="1" scY="0.62" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="3">
+     <transform x="-11.2" y="-43.45" skX="-172.65" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="2">
+     <transform x="-11.2" y="-48.4" skX="-172.82" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-9.1" y="-35.95" skX="-96.01" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="4">
+     <transform x="-7" y="-23.35" skX="-19.43" skY="0" scX="1" scY="1.06" pX="0" pY="0"/>
+    </frame>
+    <frame z="15" duration="1">
+     <transform x="-7" y="-6.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_body_b" scale="1" offset="0">
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="18.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="2.35" skX="10.94" skY="10.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="3">
+     <transform x="-16.8" y="-14.15" skX="4.71" skY="4.71" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="2">
+     <transform x="-16.8" y="-19.3" skX="-10.29" skY="-10.29" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="-8.45" skX="-14.72" skY="-14.72" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="4">
+     <transform x="-16.8" y="2.35" skX="-3.97" skY="-3.97" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="16" duration="1">
+     <transform x="-16.8" y="18.8" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jaw" scale="1" offset="0">
+    <frame z="17" duration="4">
+     <transform x="9.7" y="-8.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="11.75" y="-21.85" skX="28.93" skY="28.93" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="3">
+     <transform x="9.7" y="-41.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="2">
+     <transform x="-5.45" y="-52.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="1.7" y="-41.9" skX="10.47" skY="10.47" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="4">
+     <transform x="8.05" y="-27.45" skX="5.78" skY="5.78" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="17" duration="1">
+     <transform x="9.7" y="-8.55" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_head" scale="1" offset="0">
+    <frame z="18" duration="4">
+     <transform x="8.15" y="-8.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="4">
+     <transform x="10.6" y="-23" skX="28.93" skY="28.93" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="3">
+     <transform x="8.15" y="-41.9" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="2">
+     <transform x="-7" y="-53.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="4">
+     <transform x="0.1" y="-41.75" skX="-19.53" skY="-19.53" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="4">
+     <transform x="6.5" y="-27.6" skX="-9.22" skY="-9.22" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="18" duration="1">
+     <transform x="8.15" y="-8.95" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_jian" scale="1" offset="0">
+    <frame duration="4" displayIndex="-1"/>
+    <frame z="19" duration="2">
+     <transform x="-9.7" y="-35.05" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="2">
+     <transform x="10.65" y="-58.8" skX="169.78" skY="169.78" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="3">
+     <transform x="56.9" y="-50.6" skX="-140.45" skY="-140.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="2">
+     <transform x="29.2" y="-38.15" skX="-80.45" skY="-80.45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="19" duration="1">
+     <transform x="117.6" y="-28.75" skX="-77.59" skY="-77.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame duration="8" displayIndex="-1"/>
+   </timeline>
+   <timeline name="GLJS_hand_a1" scale="1" offset="0">
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-8.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-24.95" skX="104.3" skY="104.3" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="3">
+     <transform x="-1.8" y="-41.45" skX="-75" skY="-75" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="2">
+     <transform x="-15" y="-46.55" skX="45" skY="45" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="4">
+     <transform x="-13.35" y="-35.75" skX="24.59" skY="24.59" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="4">
+     <transform x="-11.15" y="-24.95" skX="-25.51" skY="-25.51" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="20" duration="1">
+     <transform x="-11.15" y="-8.5" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_hand_a2" scale="1" offset="0">
+    <frame z="21" duration="4">
+     <transform x="-19.75" y="17.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-37.15" y="-33.25" skX="-117.97" skY="-117.97" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="3">
+     <transform x="20.9" y="-26.45" skX="-83.94" skY="-83.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="2">
+     <transform x="-28.75" y="-34" skX="-83.94" skY="-83.94" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-27.45" y="-16.95" skX="-179.62" skY="-179.62" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="4">
+     <transform x="-7.85" y="2.05" skX="-65.25" skY="-65.25" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="21" duration="1">
+     <transform x="-19.75" y="17.35" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+   <timeline name="GLJS_wing_a2" scale="1" offset="0">
+    <frame z="22" duration="2">
+     <transform x="-20.15" y="-29.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-37.6" y="-17.35" skX="-4.51" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="4">
+     <transform x="-23.75" y="-10.15" skX="-9.06" skY="0" scX="1" scY="1.01" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="3">
+     <transform x="-27.35" y="-20.6" skX="-174.48" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-27.35" y="-25" skX="-174.61" skY="0" scX="1" scY="1.03" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-46.4" y="-33.4" skX="-168.74" skY="0" scX="1" scY="0.95" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="2">
+     <transform x="-41.6" y="-42.15" skX="-165.95" skY="0" scX="1" scY="0.93" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="4">
+     <transform x="-29.9" y="-46.2" skX="-162.98" skY="0" scX="1" scY="0.9" pX="0" pY="0"/>
+    </frame>
+    <frame z="22" duration="1">
+     <transform x="-20.15" y="-29.75" skX="0" skY="0" scX="1" scY="1" pX="0" pY="0"/>
+    </frame>
+   </timeline>
+  </animation>
+ </armature>
+</dragonBones>
